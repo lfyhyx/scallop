@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1628665893489') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mine:before {
+  content: "\e602";
+}
+
+.icon-mine1:before {
+  content: "\e627";
+}
+
+.icon-cinema:before {
+  content: "\e603";
+}
+
+.icon-icon-fanhui:before {
+  content: "\e606";
+}
+
+.icon-shuaxin:before {
+  content: "\e60a";
+}
+
+.icon-huabanfuben:before {
+  content: "\e635";
+}
+
+.icon-SEARCH:before {
+  content: "\e800";
+}
+
+.icon-movie:before {
+  content: "\e920";
+}
+
+.icon-valentine_-search-love-find-heart:before {
+  content: "\e760";
+}
+
+.icon-search:before {
+  content: "\e60d";
+}
+
+.icon-movie1:before {
+  content: "\e6be";
+}
+
+.icon-shuaxintubiao:before {
+  content: "\e551";
+}
+
+.icon-movie2:before {
+  content: "\e6bb";
+}
+
