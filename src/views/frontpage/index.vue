@@ -49,7 +49,7 @@
           v-slot="{ navigate, isActive }"
         >
           <div
-            class="search_entry"
+            class="search_entry"   
             @click="navigate"
             :class="[isActive && 'router-link-active']"
           >

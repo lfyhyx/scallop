@@ -28,6 +28,11 @@
 <script>
 export default {
   name: "game_type",
+  mounted() {
+    this.axios.get('/api/cityList').then((res)=>{
+      console.log(res);
+    })
+  },
 };
 </script>
 
